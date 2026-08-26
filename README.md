@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,50:326CE5,100:FF9900&amp;height=220&amp;section=header&amp;text=Naga%20Reddy&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cloud%20DevOps%20plus%20MLOps%20Engineer%20%7C%20AI%20Agent%20Security&amp;descAlignY=55&amp;descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:326CE5,100:FF9900&height=220&section=header&text=Naga%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20DevOps%20plus%20MLOps%20Engineer%20%7C%20AI%20Agent%20Security&descAlignY=55&descSize=20"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=600&amp;size=24&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Multi-Cloud+%7C+AWS+%C2%B7+Azure+%C2%B7+GCP;Kubernetes+%2B+Terraform+%2B+CI%2FCD+Automation;MLOps+%7C+Model+Training+to+Production+Serving;AI+Agent+Security+%7C+Garak+%C2%B7+PyRIT+%C2%B7+Promptfoo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Multi-Cloud+%7C+AWS+%C2%B7+Azure+%C2%B7+GCP;Kubernetes+%2B+Terraform+%2B+CI%2FCD+Automation;MLOps+%7C+Model+Training+to+Production+Serving;AI+Agent+Security+%7C+Garak+%C2%B7+PyRIT+%C2%B7+Promptfoo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,13 +13,13 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 </p>
 
 <p align="center">
-  <a href="https://nagadeepreddy.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-33E1B3?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0A0E14"/></a>
-  <a href="https://www.linkedin.com/in/naga-reddy-2ba924a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+  <a href="https://nagadeepreddy.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-33E1B3?style=for-the-badge&logo=googlechrome&logoColor=0A0E14"/></a>
+  <a href="https://www.linkedin.com/in/naga-reddy-2ba924a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Cloud%20DevOps%20%7C%20SRE%20%7C%20MLOps%20roles-success?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=3&amp;section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 ### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=2&amp;section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 </p>
 
 <table align="center">
@@ -129,10 +129,27 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 </div>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+### 🛡️ AI Guardrails — MCP + Agent Evaluation
+<img src="https://skillicons.dev/icons?i=python,kubernetes,terraform,docker" height="32"/>
+
+**Policy-enforced RBAC proxy gating LLM agent tool calls — MCP server, LiteLLM routing, promptfoo regression eval, multi-cloud (AWS/GCP/Azure) Terraform + K8s + CI/CD.**
+
+`MCP` `LiteLLM` `Promptfoo` `FastAPI` `Terraform` `Kubernetes`
+
+[**View Repository →**](https://github.com/NagadeepReddy/ai-guardrails)
+
+</div>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=2&amp;section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
 </p>
 
 <details>
@@ -213,25 +230,25 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=github" height="36"/><br><br>
-<img src="https://img.shields.io/badge/9-Public%20Repositories-33E1B3?style=for-the-badge&amp;labelColor=121820"/>
+<img src="https://img.shields.io/badge/9-Public%20Repositories-33E1B3?style=for-the-badge&labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="36"/><br><br>
-<img src="https://img.shields.io/badge/3-Cloud%20Platforms-33E1B3?style=for-the-badge&amp;labelColor=121820"/>
+<img src="https://img.shields.io/badge/3-Cloud%20Platforms-33E1B3?style=for-the-badge&labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=python" height="36"/><br><br>
-<img src="https://img.shields.io/badge/3-AI%20Security%20Frameworks-FF9F1C?style=for-the-badge&amp;labelColor=121820"/>
+<img src="https://img.shields.io/badge/3-AI%20Security%20Frameworks-FF9F1C?style=for-the-badge&labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
 
 <img src="https://skillicons.dev/icons?i=kubernetes,docker" height="36"/><br><br>
-<img src="https://img.shields.io/badge/5%20Layer-Full%20Stack-33E1B3?style=for-the-badge&amp;labelColor=121820"/>
+<img src="https://img.shields.io/badge/5%20Layer-Full%20Stack-33E1B3?style=for-the-badge&labelColor=121820"/>
 
 </td>
 </tr>
@@ -249,12 +266,12 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://nagadeepreddy.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-33E1B3?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0A0E14"/></a>
-  <a href="https://www.linkedin.com/in/naga-reddy-2ba924a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+  <a href="https://nagadeepreddy.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-33E1B3?style=for-the-badge&logo=googlechrome&logoColor=0A0E14"/></a>
+  <a href="https://www.linkedin.com/in/naga-reddy-2ba924a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Open to Cloud DevOps, SRE, MLOps, and AI Infrastructure/Security roles.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF9900,50:326CE5,100:0078D4&amp;height=120&amp;section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:326CE5,100:0078D4&height=120&section=footer"/>
 </p>
